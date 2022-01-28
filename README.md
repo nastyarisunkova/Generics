@@ -30,9 +30,6 @@
 
 ![image](https://user-images.githubusercontent.com/61108556/151491473-b613bffe-8548-4682-9fe4-680e635cf4ca.png)
 
-
-
-
 ![image](https://user-images.githubusercontent.com/61108556/151491502-ae418958-83be-4278-aa3d-0fd629491dc7.png)
 
 Убедитесь что создаёте проект в том каталоге, в который клонировали репозиторий 
@@ -44,8 +41,8 @@
 
 ![image](https://user-images.githubusercontent.com/61108556/151491890-5a62585d-3172-448a-9076-d5968abe859b.png)
 
-
 5. Необходимо зафиксировать все изменения локально и после этого отправить их в удалённый репозиторий
+
 ![image](https://user-images.githubusercontent.com/61108556/151491955-11238db2-996f-40f9-bc1d-abb07f99898e.png)
 
 ![image](https://user-images.githubusercontent.com/61108556/151491989-9bd6b51d-426f-4d72-a05a-4a138a3bbd8e.png)
