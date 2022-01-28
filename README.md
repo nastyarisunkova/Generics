@@ -15,6 +15,11 @@
 
 ![image](https://user-images.githubusercontent.com/61108556/151491282-b0b32556-2f06-47cf-bdd2-eeb61f5f51ac.png)
 
+Выберите пункт "Клонировать репозиторий"
+
+![image](https://user-images.githubusercontent.com/61108556/151495546-6771e979-b603-4774-980a-62851a157de0.png)
+
+
 ![image](https://user-images.githubusercontent.com/61108556/151491384-a7aa87b9-2a8e-4f74-98a6-3793c074afb5.png)
 
 2. После этого у Вас появится окно следующего вида
@@ -24,6 +29,9 @@
 3. Создайте новый проект 
 
 ![image](https://user-images.githubusercontent.com/61108556/151491473-b613bffe-8548-4682-9fe4-680e635cf4ca.png)
+
+
+
 
 ![image](https://user-images.githubusercontent.com/61108556/151491502-ae418958-83be-4278-aa3d-0fd629491dc7.png)
 
