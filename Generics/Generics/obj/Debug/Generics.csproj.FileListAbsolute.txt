@@ -1,0 +1,10 @@
+C:\Uchoba\КПиЯП\LAB17\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Uchoba\КПиЯП\LAB17\Generics\Generics\bin\Debug\Generics.exe
+C:\Uchoba\КПиЯП\LAB17\Generics\Generics\bin\Debug\Generics.pdb
+C:\Uchoba\КПиЯП\LAB17\Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Uchoba\КПиЯП\LAB17\Generics\Generics\obj\Debug\Generics.Form1.resources
+C:\Uchoba\КПиЯП\LAB17\Generics\Generics\obj\Debug\Generics.Properties.Resources.resources
+C:\Uchoba\КПиЯП\LAB17\Generics\Generics\obj\Debug\Generics.csproj.GenerateResource.cache
+C:\Uchoba\КПиЯП\LAB17\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Uchoba\КПиЯП\LAB17\Generics\Generics\obj\Debug\Generics.exe
+C:\Uchoba\КПиЯП\LAB17\Generics\Generics\obj\Debug\Generics.pdb
